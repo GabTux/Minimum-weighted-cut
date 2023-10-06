@@ -8,7 +8,7 @@ git clone https://github.com/GabTux/Minimum-weighted-cut
 ```
 2) build:
 ```
-cd Minimum-weighted-cut
+cd Minimum-weighted-cut/src
 cmake CMakeLists.txt
 make
 ```
